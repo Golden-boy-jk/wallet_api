@@ -1,0 +1,7 @@
+POST http://localhost:8000/api/v1/wallets/123e4567-e89b-12d3-a456-426614174000/operation
+Content-Type: application/json
+
+{
+  "operation_type": "DEPOSIT",
+  "amount": 1000
+}
