@@ -2,8 +2,8 @@
 Прошу строго не судить )) 
 
 Стек технологий:
-FastAPI – веб-фреймворк
-PostgreSQL – база данных
-Alembic – миграции БД
-Docker, docker-compose – контейнеризация
-pytest – тестирование
+FastAPI – веб-фреймворк,
+PostgreSQL – база данных,
+Alembic – миграции БД,
+Docker, docker-compose – контейнеризация,
+pytest – тестирование.
